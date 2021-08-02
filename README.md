@@ -22,7 +22,7 @@
 ```
 
 
-basic ascii chess source from  
+basic ascii chess board from  
 https://github.com/Parigyan/ASCII-Chess  
 Credit goes to 
 
