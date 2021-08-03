@@ -37,11 +37,11 @@ Player create their chess room and other players join the game room.
 
 When clients make their game room, the server create processes for each.  
 Every process has its own port number. Players in game send their moves with socket.
-<br><br><br><br>
+<br><br><br>
 
+<img src="./image/chessplay1.png" width="1000">
 
-
-
+<br><br>
 #### Prerequisites  
 ***
 ```Mysql```  ```Ubuntu Posix libraries```  ```GCC```
@@ -62,5 +62,8 @@ You can run server and client with compiled 'client' and 'server' file.  <br>
 <br>
 run ```./server portnumber``` (ex: $./server 3000)  
 run ```./client ip portnumber``` (ex: $./client 127.0.0.1 3000)  <-local IP
-
-
+<br><br>
+Make your move with keyboard input.  
+"p d2 d3" for pawn move forward.  
+"n b1 c3" for night move.    
+<img src="./image/chessplay2.png" width="500">
