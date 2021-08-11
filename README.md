@@ -65,5 +65,5 @@ run ```./client ip portnumber``` (ex: $./client 127.0.0.1 3000)  <-local IP
 <br><br>
 Make your move with keyboard input.  
 "p d2 d3" for pawn move forward.  
-"n b1 c3" for night move.    
+"n b1 c3" for knight move.    
 <img src="./image/chessplay2.png" width="500">
